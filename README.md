@@ -6,8 +6,6 @@
 ## Open Source Projects  
   
 [![m3_lightmeter](https://github-readme-stats.vercel.app/api/pin/?username=vodemn&repo=m3_lightmeter)](https://github.com/vodemn/m3_lightmeter)  
-[![DetectNumbersCore](https://github-readme-stats.vercel.app/api/pin/?username=vodemn&repo=DetectNumbersCore)](https://github.com/vodemn/DetectNumbersCore)  
-[![DetectNumbers](https://github-readme-stats.vercel.app/api/pin/?username=vodemn&repo=DetectNumbers)](https://github.com/vodemn/DetectNumbers)   
 [![eyes](https://github-readme-stats.vercel.app/api/pin/?username=vodemn&repo=eyes)](https://github.com/vodemn/eyes)  
 [![light_sensor](https://github-readme-stats.vercel.app/api/pin/?username=vodemn&repo=light_sensor)](https://github.com/vodemn/light_sensor)  
 
