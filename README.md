@@ -1,17 +1,6 @@
-# vodemn
+# Hello there!
+<img  src="https://github-readme-stats.vercel.app/api?username=vodemn&show_icons=true&count_private=true&theme=dracula&title_color=AED581&icon_color=FFF176&include_all_commits=false&custom_title=vodemn%27s%20GitHub%20Stats" />
 
-+ **Homepage:** [vodemn.github.io](https://vodemn.github.io/#/)  
-+ **Linkedin:** [vadim-turko](https://www.linkedin.com/in/vadim-turko/)
- 
-## Open Source Projects  
-  
-[![m3_lightmeter](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vodemn&repo=m3_lightmeter)](https://github.com/vodemn/m3_lightmeter)  
-[![DetectNumbers](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vodemn&repo=DetectNumbers)](https://github.com/vodemn/DetectNumbers)   
-[![DetectNumbersCore](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vodemn&repo=DetectNumbersCore)](https://github.com/vodemn/DetectNumbersCore)   
-[![eyes](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vodemn&repo=eyes)](https://github.com/vodemn/eyes)  
-[![light_sensor](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vodemn&repo=light_sensor)](https://github.com/vodemn/light_sensor)  
-
-## Tech stack
 [![Dart](https://img.shields.io/badge/-Dart-212121?style=flat&logo=dart&logoColor=cyan)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/-Flutter-212121?style=flat&logo=flutter&logoColor=cyan)](http://flutter.dev/)  
 [![Swift](https://img.shields.io/badge/-Swift-212121?style=flat&logo=swift&logoColor=orange)](https://www.swift.org/)  
